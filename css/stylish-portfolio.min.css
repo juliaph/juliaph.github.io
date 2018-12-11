@@ -125,14 +125,14 @@
                                                                             -webkit-transition:background-color .15s ease-in-out;
                                                                             transition:background-color .15s ease-in-out;
                                                                             -webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);
-                                                                            box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}footer.footer .social-link:hover{background-color:#155d74;
-                                                                                text-decoration:none}a{color:#606060}a:active,a:focus,a:hover{color:#155d74}
+                                                                            box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}footer.footer .social-link:hover{background-color:#343a40;
+                                                                                text-decoration:none}a{color:#606060}a:active,a:focus,a:hover{color:#343a40}
                                                                                 .btn-primary{background-color:#606060!important;border-color:#606060!important;color:#fff!important}
                                                                                 .btn-primary:active,.btn-primary:focus,
-                                                                                .btn-primary:hover{background-color:#155d74!important;border-color:#155d74!important}
-                                                                                .btn-secondary{background-color:#1d809f!important;border-color:#1d809f!important;
+                                                                                .btn-primary:hover{background-color:#343a40!important;border-color:#343a40!important}
+                                                                                .btn-secondary{background-color:#606060!important;border-color:#606060!important;
                                                                                     color:#fff!important}.btn-secondary:active,.btn-secondary:focus,
-                                                                                    .btn-secondary:hover{background-color:#155d74!important;border-color:#155d74!important}
+                                                                                    .btn-secondary:hover{background-color:#343a40!important;border-color:#343a40!important}
                                                                                     .btn-dark{color:#fff!important}.btn{-webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);
                                                                                         box-shadow:0 3px 3px 0 rgba(0,0,0,.1);font-weight:700}
                                                                                         .bg-primary{background-color:#606060!important}

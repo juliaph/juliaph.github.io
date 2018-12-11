@@ -344,14 +344,14 @@
  }
  
  .btn-secondary {
-   background-color: #1D809F !important;
-   border-color: #1D809F !important;
+   background-color: #606060 !important;
+   border-color: #606060 !important;
    color: #fff !important;
  }
  
  .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-   background-color: #155d74 !important;
-   border-color: #155d74 !important;
+   background-color: #343a40 !important;
+   border-color: #343a40 !important;
  }
  
  .btn-dark {
