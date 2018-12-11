@@ -52,7 +52,7 @@
                 transition:all .4s ease 0s;
                 -webkit-transform:translateX(250px);
                 transform:translateX(250px);
-                background:#1d809f;
+                background:#606060;/*#343a40*/
                 border-left:1px solid rgba(255,255,255,.1)}
                 .sidebar-nav{position:absolute;top:0;width:250px;margin:0;padding:0;list-style:none}
                 .sidebar-nav li.sidebar-nav-item a{display:block;text-decoration:none;color:#fff;
@@ -77,7 +77,7 @@
                                     line-height:50px;z-index:999}.menu-toggle:focus,
                                     .menu-toggle:hover{color:#fff}
                                     .menu-toggle:hover{background:#343a40}
-                                    .service-icon{background-color:#fff;color:#1d809f;
+                                    .service-icon{background-color:#fff;color:#606060;
                                         height:7rem;width:7rem;
                                         display:block;
                                         line-height:7.5rem;
@@ -121,20 +121,20 @@
                                                                             height:4rem;width:4rem;
                                                                             line-height:4.3rem;
                                                                             font-size:1.5rem;
-                                                                            background-color:#1d809f;
+                                                                            background-color:#606060;
                                                                             -webkit-transition:background-color .15s ease-in-out;
                                                                             transition:background-color .15s ease-in-out;
                                                                             -webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);
                                                                             box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}footer.footer .social-link:hover{background-color:#155d74;
-                                                                                text-decoration:none}a{color:#1d809f}a:active,a:focus,a:hover{color:#155d74}
-                                                                                .btn-primary{background-color:#1d809f!important;border-color:#1d809f!important;color:#fff!important}
+                                                                                text-decoration:none}a{color:#606060}a:active,a:focus,a:hover{color:#155d74}
+                                                                                .btn-primary{background-color:#606060!important;border-color:#606060!important;color:#fff!important}
                                                                                 .btn-primary:active,.btn-primary:focus,
                                                                                 .btn-primary:hover{background-color:#155d74!important;border-color:#155d74!important}
-                                                                                .btn-secondary{background-color:#ecb807!important;border-color:#ecb807!important;
+                                                                                .btn-secondary{background-color:#1d809f!important;border-color:#1d809f!important;
                                                                                     color:#fff!important}.btn-secondary:active,.btn-secondary:focus,
-                                                                                    .btn-secondary:hover{background-color:#ba9106!important;border-color:#ba9106!important}
+                                                                                    .btn-secondary:hover{background-color:#155d74!important;border-color:#155d74!important}
                                                                                     .btn-dark{color:#fff!important}.btn{-webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);
                                                                                         box-shadow:0 3px 3px 0 rgba(0,0,0,.1);font-weight:700}
-                                                                                        .bg-primary{background-color:#1d809f!important}
-                                                                                        .text-primary{color:#1d809f!important}
-                                                                                        .text-secondary{color:#ecb807!important}
+                                                                                        .bg-primary{background-color:#606060!important}
+                                                                                        .text-primary{color:#606060!important}
+                                                                                        .text-secondary{color:#1d809f!important}
